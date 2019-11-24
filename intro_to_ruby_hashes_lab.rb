@@ -95,6 +95,5 @@ def monopoly_with_third_tier
 end
 
 end
-
-(monopoly_with_fourth_tier)[:railroads][:names]["mortgage_value"].to eq("$" + 100)
+[:railroads][:names]["mortgage_value"].each.to eq("$" + 100)
 
