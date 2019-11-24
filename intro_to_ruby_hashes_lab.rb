@@ -85,11 +85,8 @@ def monopoly_with_third_tier
          {
            "mortgage_value" => "$200"
          }
-       }
-     }
+      }
    }
-   
-   
-   end
+end
 
 
