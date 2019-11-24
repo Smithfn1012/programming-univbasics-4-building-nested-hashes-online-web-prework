@@ -88,3 +88,5 @@ def monopoly_with_third_tier
 end
 
 end
+
+[monopoly][:railroads][:names][:reading_railroad]["mortgage_value"]
