@@ -38,10 +38,10 @@ def monopoly_with_third_tier
        },
        :names => {
          :reading_railroad => {
-           "mortgage_value" = "$100"
+           "mortgage_value" => "$100"
          },
          :b_and_o_railroad => {
-           "mortgage_value" = "$400"
+           "mortgage_value" => "$400"
          },
          :shortline_railroad => {},
          :pennsylvania_railroad => {}
