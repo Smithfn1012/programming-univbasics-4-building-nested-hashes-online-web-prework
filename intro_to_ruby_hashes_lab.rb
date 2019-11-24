@@ -89,4 +89,4 @@ end
 
 end
 
-[monopoly][:railroads][:names][:reading_railroad]["mortgage_value"]
+[base_hash][monopoly][:railroads][:names][:reading_railroad]["mortgage_value"]
