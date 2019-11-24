@@ -89,4 +89,4 @@ end
 
 end
 
-[:railroads][:names][:reading_railroad]["mortgage_value"]= $100
+[:railroads][:names][:reading_railroad]["mortgage_value"]= "$100"
