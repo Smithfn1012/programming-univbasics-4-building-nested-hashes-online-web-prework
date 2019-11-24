@@ -89,4 +89,3 @@ end
 
 end
 
-[:railroads][:names][:reading_railroad]["mortgage_value"]= "$100"
