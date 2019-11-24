@@ -96,5 +96,5 @@ end
 
 end
 
-(monopoly_with_fourth_tier)[:railroads][:names]["mortgage_value"].to eq("$100")
+(monopoly_with_fourth_tier)[:railroads][:names]["mortgage_value"].to eq("$" + 100)
 
